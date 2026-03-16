@@ -38,7 +38,7 @@ switch2.
 •  Screw the accessories on the board and switch on the supply.
 •  Circuit is tested for all possible combination of switch positions.
 
-![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-3/blob/main/3.1.jpeg?raw=true)
+![image](https://github.com/Abhinavguru-cse/EXP-3/blob/main/31WhatsApp%20Image%202026-03-16%20at%2012.12.41%20PM.jpeg?raw=true)
 Direct connection: CIRCUIT DIAGRAM: 
 
 
@@ -46,7 +46,7 @@ Direct connection: CIRCUIT DIAGRAM:
 
 Tabulation:
 
-![image](https://github.com/Viveka-Sengalvarayan/BEEE-EXP-3/blob/main/3.2.jpeg?raw=true)
+![image](https://github.com/Abhinavguru-cse/EXP-3/blob/main/32WhatsApp%20Image%202026-03-16%20at%2012.12.41%20PM.jpeg?raw=true)
 	
 Cross connection: CIRCUIT DIAGRAM:
 
